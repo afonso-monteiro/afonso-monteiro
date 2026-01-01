@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I'm Afonso Monteiro
 
-<!--
-**afonso-monteiro/afonso-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Aspiring Platform Engineer**
 
-Here are some ideas to get you started:
+I bridge the gap between Systems Administration and Software Engineering. My focus is on building scalable, secure, and automated infrastructure using Cloud Native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I'm currently working on:** Mastering Linux internals & building CLI tools with **Go**.
+- 🌱 **I'm currently learning:** Cloud Native Infrastructure (Docker, Kubernetes), GitOps & Observability.
+- 🎯 **Goal:** Building resilient platforms for **mission-critical & high-compliance environments**.
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,git,docker,kubernetes,terraform,aws,prometheus&theme=light" />
+  </a>
+</p>
